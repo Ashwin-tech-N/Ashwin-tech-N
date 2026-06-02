@@ -22,8 +22,6 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 class Ashwin:
     def __init__(self):
@@ -102,7 +100,6 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Ashwin-tech-N">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashwin-tech-N&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
   </a>
   <a href="https://github.com/Ashwin-tech-N">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-tech-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
