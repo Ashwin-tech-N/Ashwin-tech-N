@@ -125,13 +125,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-tech-N&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
