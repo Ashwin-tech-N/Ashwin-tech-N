@@ -102,7 +102,6 @@ print(me.motto())
   <a href="https://github.com/Ashwin-tech-N">
   </a>
   <a href="https://github.com/Ashwin-tech-N">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-tech-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
 
