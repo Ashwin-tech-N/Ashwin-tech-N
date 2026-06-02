@@ -22,6 +22,8 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 class Ashwin:
     def __init__(self):
@@ -125,6 +127,13 @@ print(me.motto())
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-tech-N&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+</div>
+
+---
 
 ## 💼 Work Experience
 
