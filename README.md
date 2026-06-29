@@ -102,7 +102,7 @@ class AshwinN:
 - 📊 Skill-gap assessment & career roadmaps
 - 🏛️ Covers private & government sectors
 
-[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N)
+[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Ashwin-tech-N](https://github.com/Ashwin-tech-N/AI-Career-Navigation-updated))
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +117,7 @@ class AshwinN:
 - 🤖 Gemini AI-powered wellness guidance
 - 🔔 Predictive health insights & alerts
 
-[![View Project](https://img.shields.io/badge/View_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N)
+[![View Project](https://img.shields.io/badge/View_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/CarePlanner-AI)
 
 </td>
 </tr>
