@@ -102,7 +102,7 @@ class AshwinN:
 - 📊 Skill-gap assessment & career roadmaps
 - 🏛️ Covers private & government sectors
 
-[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Ashwin-tech-N](https://github.com/Ashwin-tech-N/AI-Career-Navigation-updated))
+[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/AI-Career-Navigation-updated)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ class AshwinN:
 
 **Stack:** `Python` · `Web Development` · `Database Design`
 
-[![View Project](https://img.shields.io/badge/View_Project-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N)
+[![View Project](https://img.shields.io/badge/View_Project-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/Digital-IIF-Forms-Portal)
 
 </td>
 </tr>
