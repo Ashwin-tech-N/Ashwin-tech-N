@@ -1,251 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0EA5E9&height=200&section=header&text=Ashwin%20N&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18&descColor=e0f2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:6D28D9,60:2563EB,100:06B6D4&height=230&section=header&text=ASHWIN%20N&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Cybersecurity%20Enthusiast&descAlignY=52&descSize=17&descColor=c7d2fe" width="100%"/>
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ashwin+%F0%9F%91%8B;Building+CareerFlow+AI+%26+VitalityPath+%F0%9F%9A%80;AI+%7C+Full+Stack+%7C+Cybersecurity+Enthusiast;Ship+fast.+Learn+faster.+%E2%9A%A1)](https://readme-typing-svg.demolab.com)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashwin-tech-N&style=for-the-badge&color=7c3aed&label=Profile+Views)](https://github.com/Ashwin-tech-N)
-[![Email](https://img.shields.io/badge/Gmail-ashwingnsvj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwingnsvj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-n-239440323)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N)
-
-</div>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```python
-class AshwinN:
-    name       = "Ashwin N"
-    location   = "Puducherry, India 🇮🇳"
-    degree     = "B.Tech — Computer & Communication Engg."
-    college    = "Sri Manakula Vinayagar Engg. College"
-    cohort     = "2023 – 2027"
-
-    stack      = [
-        "React.js", "TypeScript", "FastAPI",
-        "Python", "Machine Learning",
-        "Docker", "n8n", "Google Gemini AI"
-    ]
-
-    exploring  = [
-        "LLMs & RAG",  "AWS / GCP",
-        "Cyber Forensics", "MLOps"
-    ]
-
-    fun_fact   = "Led a real Charge Sheet Portal @ Cybercrime Office 👮"
-
-    def motto(self):
-        return "Build things that solve real problems. 🚀"
+```
+> whoami
+Ashwin N — building AI products that ship, not just demos.
+> status
+Open to internships, collabs, and interesting problems.
 ```
 
-<br clear="right"/>
+<br>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF6B35?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚀 Frameworks & AI
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML_&_LLMs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### ☁️ Cloud, DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases & Web
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="mailto:ashwingnsvj@gmail.com"><img src="https://img.shields.io/badge/-Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashwin-n-239440323"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ashwin-tech-N"><img src="https://img.shields.io/badge/-GitHub-0f1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ashwin-tech-N&style=for-the-badge&color=06B6D4&label=VISITORS"/>
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<div align="center">
+<br>
+
+## `01` &nbsp;About
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🤖 CareerFlow AI
-> AI-powered career intelligence platform
+Second-year B.Tech student (Computer & Communication Engineering) who spends more time shipping side projects than sleeping. Currently deep in **AI/LLM engineering**, but got here through an unusual path — building a real digital charge-sheet system for a Cyber Crime Office as a student intern.
 
-**Stack:** `React.js` · `TypeScript` · `FastAPI` · `Python` · `ML` · `Docker` · `n8n`
-
-- 🎯 AI-driven **job matching engine**
-- 📄 ATS resume analysis & optimization
-- 📊 Skill-gap assessment & career roadmaps
-- 🏛️ Covers private & government sectors
-
-[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/AI-Career-Navigation-updated)
+**What I'm about:**
+- 🎯 Turning AI capability into products people actually use
+- 🏗️ Full-stack from database schema to React UI
+- 🔐 Cybersecurity as a lens for building things *safely*, not just fast
+- 📍 Puducherry, India · B.Tech 2023–2027 · Sri Manakula Vinayagar Engg. College
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### 🏥 VitalityPath
-> AI-driven chronic disease management
-
-**Stack:** `React.js` · `TypeScript` · `FastAPI` · `Python` · `ML` · `Gemini AI`
-
-- 💊 Personalized AI **care plans**
-- 📈 Real-time health monitoring
-- 🤖 Gemini AI-powered wellness guidance
-- 🔔 Predictive health insights & alerts
-
-[![View Project](https://img.shields.io/badge/View_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/CarePlanner-AI)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 📋 Charge Sheet Portal *(Live Production)*
-> Built at Puducherry Cyber Crime Office — digitizes the filing & management of official charge sheets for law enforcement
-
-**Stack:** `Python` · `Web Development` · `Database Design`
-
-[![View Project](https://img.shields.io/badge/View_Project-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N/Digital-IIF-Forms-Portal)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
 </td>
 </tr>
 </table>
-</div>
 
----
+<br>
 
-## 💼 Work Experience
-
-<details>
-<summary><b>🏛️ Cyber Crime Office, Puducherry &nbsp;|&nbsp; Intern &nbsp;|&nbsp; 2024 · 1 Month</b></summary>
-
-<br/>
-
-> `Cybersecurity` `Cyber Forensics` `Web Development` `Team Leadership` `Python`
-
-- 🔍 Hands-on exposure to **cybercrime investigation rules** and practical cyber forensic tools used in real case analysis
-- 🖥️ Served as **Team Lead** to design and build the Charge Sheet Portal — a digital system for official charge sheet management
-- 📋 Collaborated directly with law enforcement to translate operational needs into a functional software solution
-- 🚀 Delivered within timeline, directly supporting the office's digital transformation
-
-</details>
-
-<details>
-<summary><b>🤖 Genesus Research & AI Labs &nbsp;|&nbsp; Database Team Intern &nbsp;|&nbsp; 2024 · 2 Weeks · Remote</b></summary>
-
-<br/>
-
-> `SQL` `Database Design` `Data Engineering` `AI/ML Backend`
-
-- 🗄️ Contributed to data design, management & optimization for an AI Fabric Try-On project
-- 🤝 Collaborated with AI/ML engineers to build efficient data workflows for real-time AI applications
-- ✅ Ensured data integrity & schema consistency across datasets used in model training and inference
-- 📐 Applied database normalization and query optimization in a production AI environment
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## `02` &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Ashwin-tech-N&cc=0d1117&tc=7C3AED&ic=0EA5E9&bc=0d1117" alt="GitHub Stats"/>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-14151A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TypeScript-14151A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-14151A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C-14151A?style=for-the-badge&logo=c&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/SQL-14151A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
-<br/><br/>
+**Frameworks & AI**
+<br>
+<img src="https://img.shields.io/badge/React-14151A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-14151A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Gemini_AI-14151A?style=for-the-badge&logo=google&logoColor=8E44AD"/>
+<img src="https://img.shields.io/badge/Machine_Learning-14151A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 
-<img src="https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=0EA5E9&dates=64748B&currStreakNum=F1F5F9&sideNums=F1F5F9&stroke=0D1117&border=0D1117&border_radius=10" alt="GitHub Streak"/>
+**Cloud, DevOps & Automation**
+<br>
+<img src="https://img.shields.io/badge/Docker-14151A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/n8n-14151A?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/AWS-14151A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-14151A?style=for-the-badge&logo=git&logoColor=F05032"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-tech-N&theme=tokyo-night&bg_color=0d1117&color=7C3AED&line=0EA5E9&point=F59E0B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 | Achievement | Issuer |
-|:--:|-------------|--------|
-| 🥇 | **National Level Project Competition** | Velammal Institute of Technology · 2025 |
-| 🔐 | **National Cyber Security Summit** | SMVEC · 2024 |
-| ☁️ | **Generative AI on AWS Workshop** | Crescent Institute of Science & Technology |
-| 🛡️ | **Cybersecurity Analyst Job Simulation** | TATA (Forage) |
-| 📊 | **GenAI Powered Data Analytics Simulation** | TATA (Forage) |
-| 🐍 | **Python Programming Certification** | GUVI |
-| 🤖 | **Python for Data Science, AI & Development** | Coursera — IBM |
-| 🔒 | **Introduction to Cybersecurity Careers** | Coursera — IBM |
-| 💻 | **Diploma in Computer Application (HDCA)** | CSC |
+**Web & Data**
+<br>
+<img src="https://img.shields.io/badge/MySQL-14151A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-14151A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-14151A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 
 </div>
 
----
+<br>
 
-## 🎓 Education
+## `03` &nbsp;Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 CareerFlow AI</h3>
+<i>AI-powered career intelligence platform</i>
+<br><br>
+
+`React` `TypeScript` `FastAPI` `Python` `ML` `Docker` `n8n`
+
+- AI-driven job matching engine
+- ATS resume analysis & optimization
+- Skill-gap assessment & career roadmaps
+- Covers private & government sectors
+
+<a href="https://github.com/Ashwin-tech-N/AI-Career-Navigation-updated"><img src="https://img.shields.io/badge/View_Repo-6D28D9?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+<h3>🏥 VitalityPath</h3>
+<i>AI-driven chronic disease management</i>
+<br><br>
+
+`React` `TypeScript` `FastAPI` `Python` `ML` `Gemini AI`
+
+- Personalized AI care plans
+- Real-time health monitoring
+- Gemini-powered wellness guidance
+- Predictive health insights & alerts
+
+<a href="https://github.com/Ashwin-tech-N/CarePlanner-AI"><img src="https://img.shields.io/badge/View_Repo-06B6D4?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3 align="center">📋 Charge Sheet Portal <sub>· Live in Production</sub></h3>
+<p align="center"><i>Built at Puducherry Cyber Crime Office — digitizes filing & management of official charge sheets for law enforcement</i></p>
+<p align="center"><code>Python</code> <code>Web Development</code> <code>Database Design</code></p>
+<p align="center"><a href="https://github.com/Ashwin-tech-N/Digital-IIF-Forms-Portal"><img src="https://img.shields.io/badge/View_Repo-16A34A?style=flat-square&logo=github&logoColor=white"/></a></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+## `04` &nbsp;Experience
+
+```
+2024 ── Cyber Crime Office, Puducherry
+     │  Intern · 1 Month
+     │  → Team Lead on the Charge Sheet Portal build
+     │  → Hands-on cyber forensics & investigation workflows
+     │  → Delivered a production system for law enforcement
+     │
+2024 ── Genesus Research & AI Labs
+     │  Database Team Intern · 2 Weeks · Remote
+     │  → Data design for an AI Fabric Try-On project
+     │  → Schema consistency across ML training pipelines
+     └  → Query optimization in a live AI environment
+```
+
+<br>
+
+## `05` &nbsp;GitHub Stats
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------|---------|
-| **B.Tech — Computer & Communication Engg.** | Sri Manakula Vinayagar Engineering College | 2023 – 2027 |
-| **12th (HSC)** | Seventh-day Adventist Higher Secondary School | 2023 |
-| **10th (SSLC)** | Seventh-day Adventist Higher Secondary School | 2021 |
+<img src="https://github-stats-alpha.vercel.app/api?username=Ashwin-tech-N&cc=0d1117&tc=A78BFA&ic=22D3EE&bc=0d1117" alt="GitHub Stats"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=64748B&currStreakNum=F1F5F9&sideNums=F1F5F9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-tech-N&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=22D3EE&point=F59E0B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
----
+<br>
 
-## 📚 Currently Exploring
+## `06` &nbsp;Achievements & Certifications
 
 <div align="center">
 
-![LLMs](https://img.shields.io/badge/🧠_LLMs_&_RAG-Prompt_Engineering_·_Fine--tuning-7C3AED?style=flat-square)
-![Cloud](https://img.shields.io/badge/☁️_Cloud-AWS_·_GCP_Basics-FF9900?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-Forensics_·_Ethical_Hacking-EF4444?style=flat-square)
-![System Design](https://img.shields.io/badge/🏗️_System_Design-Microservices_·_APIs-0EA5E9?style=flat-square)
-![MLOps](https://img.shields.io/badge/📦_MLOps-Docker_·_CI/CD_Pipelines-16A34A?style=flat-square)
+| | Achievement | Issuer |
+|:--:|---|---|
+| 🥇 | National Level Project Competition | Velammal Institute of Technology · 2025 |
+| 🔐 | National Cyber Security Summit | SMVEC · 2024 |
+| ☁️ | Generative AI on AWS Workshop | Crescent Institute of Science & Technology |
+| 🛡️ | Cybersecurity Analyst Job Simulation | TATA (Forage) |
+| 📊 | GenAI Powered Data Analytics Simulation | TATA (Forage) |
+| 🐍 | Python Programming Certification | GUVI |
+| 🤖 | Python for Data Science, AI & Development | Coursera — IBM |
+| 🔒 | Introduction to Cybersecurity Careers | Coursera — IBM |
+| 💻 | Diploma in Computer Application (HDCA) | CSC |
 
 </div>
 
----
+<br>
+
+## `07` &nbsp;Education
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:EC4899&height=140&section=footer&text=Let's+Build+Something+Awesome!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+| Degree | Institution | Year |
+|---|---|---|
+| B.Tech — Computer & Communication Engg. | Sri Manakula Vinayagar Engineering College | 2023 – 2027 |
+| 12th (HSC) | Seventh-day Adventist Higher Secondary School | 2023 |
+| 10th (SSLC) | Seventh-day Adventist Higher Secondary School | 2021 |
 
-*Open to collaborations, internships & building things worth building.*
+</div>
 
-[![Say Hello](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwingnsvj@gmail.com)
-[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-n-239440323)
-[![Follow](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-tech-N)
+<br>
 
-**— Ashwin N 🚀 · "Ship fast. Learn faster."**
+## `08` &nbsp;Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs_&_RAG-Prompt_Engineering_·_Fine--tuning-14151A?style=flat-square&logoColor=A78BFA&labelColor=14151A"/>
+<img src="https://img.shields.io/badge/Cloud-AWS_·_GCP_Basics-14151A?style=flat-square&labelColor=14151A"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Forensics_·_Ethical_Hacking-14151A?style=flat-square&labelColor=14151A"/>
+<img src="https://img.shields.io/badge/System_Design-Microservices_·_APIs-14151A?style=flat-square&labelColor=14151A"/>
+<img src="https://img.shields.io/badge/MLOps-Docker_·_CI/CD-14151A?style=flat-square&labelColor=14151A"/>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+<br>
+
+### Let's build something worth building.
+
+<a href="mailto:ashwingnsvj@gmail.com"><img src="https://img.shields.io/badge/-Say_Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashwin-n-239440323"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ashwin-tech-N"><img src="https://img.shields.io/badge/-Follow-0f1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
+<sub>Ashwin N · Ship fast. Learn faster. ⚡</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=100&section=footer" width="100%"/>
 
 </div>
