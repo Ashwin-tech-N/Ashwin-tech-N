@@ -178,7 +178,7 @@ class AshwinN:
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
