@@ -5,10 +5,7 @@
 <br>
 
 
-> whoami
-Ashwin N — building AI products that ship, not just demos.
-> status
-Open to internships, collabs, and interesting problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ashwin+%F0%9F%91%8B;Building+CareerFlow+AI+%26+VitalityPath+%F0%9F%9A%80;AI+%7C+Full+Stack+%7C+Cybersecurity+Enthusiast;Ship+fast.+Learn+faster.+%E2%9A%A1)](https://readme-typing-svg.demolab.com)
 
 
 <br>
