@@ -178,7 +178,7 @@ class AshwinN:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Ashwin-tech-N&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=0EA5E9&dates=64748B&currStreakNum=F1F5F9&sideNums=F1F5F9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
