@@ -4,12 +4,12 @@
 
 <br>
 
-```
+
 > whoami
 Ashwin N — building AI products that ship, not just demos.
 > status
 Open to internships, collabs, and interesting problems.
-```
+
 
 <br>
 
