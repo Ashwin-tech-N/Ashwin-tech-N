@@ -29,7 +29,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Second-year B.Tech student (Computer & Communication Engineering) who spends more time shipping side projects than sleeping. Currently deep in **AI/LLM engineering**, but got here through an unusual path — building a real digital charge-sheet system for a Cyber Crime Office as a student intern.
+Final-year B.Tech student (Computer & Communication Engineering) who spends more time shipping side projects than sleeping. Currently deep in **AI/LLM engineering**, but got here through an unusual path — building a real digital charge-sheet system for a Cyber Crime Office as a student intern.
 
 **What I'm about:**
 - 🎯 Turning AI capability into products people actually use
