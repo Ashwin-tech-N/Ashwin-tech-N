@@ -161,8 +161,6 @@ Final-year B.Tech student (Computer & Communication Engineering) who spends more
 
 <br><br>
 
-<br>
-
 ## `06` &nbsp;Achievements & Certifications
 
 <div align="center">
