@@ -161,7 +161,7 @@ Final-year B.Tech student (Computer & Communication Engineering) who spends more
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-tech-N&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=22D3EE&point=F59E0B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-tech-N&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=22D3EE&point=F59E0B&area=true&hide_border=true" width="100%" alt="Ashwin's GitHub Activity Graph"/>
 
 </div>
 
